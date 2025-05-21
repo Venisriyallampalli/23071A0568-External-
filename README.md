@@ -27,8 +27,8 @@ This is a React-based student management system with registration, login, contac
 You can navigate between Register, Login, Contact, and About pages using the navigation bar.
 
 ## Output
-![image](https://github.com/user-attachments/assets/153009ea-b963-4260-b773-507e7344ebb1)
-![image](https://github.com/user-attachments/assets/b5c09a7b-9ed6-4837-b232-bf8544ba0e5f)
+![image](https://github.com/user-attachments/assets/86d38780-6515-44d6-8ea0-d4dec052eb89)
+![image](https://github.com/user-attachments/assets/6d13b7e0-13b1-4135-939b-91a9c4267ec3)
 ![image](https://github.com/user-attachments/assets/fa646fd1-7caa-4b1c-b797-82f00476280b)
 ![image](https://github.com/user-attachments/assets/c3af640c-39d5-4148-89af-0b77f84cc0f5)
 
